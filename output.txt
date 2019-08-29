@@ -1,0 +1,138 @@
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Hank Stein (012-34-5678),
+Date and place of birth: 1999-04-19, New York, New York, USA
+505 Murray Hill Road
+Vestal, NY 13850
+Computers: [Dell, CPU1, 36GB Memory, 1.0TB Solid State Drive, Price: $1000.00 , Dell, CPU2, 36GB Memory, 1.0TB Hard Drive, Price: $1000.00 , Dell, CPU3, 36GB Memory, 600GB Solid State Drive, Price: $1000.00 , Dell, CPU4, 36GB Memory, 600GB Hard Drive, Price: $1000.00 ]
+Computer List, Owner: Hank Stein (012-34-5678),
+Date and place of birth: 1999-04-19, New York, New York, USA
+505 Murray Hill Road
+Vestal, NY 13850
+Computers: [Dell, CPU2, 36GB Memory, 1.0TB Hard Drive, Price: $1000.00 , Dell, CPU4, 36GB Memory, 600GB Hard Drive, Price: $1000.00 ]
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Hank Stein (012-34-5678),
+Date and place of birth: 1999-04-19, New York, New York, USA
+505 Murray Hill Road
+Vestal, NY 13850
+Computers: [Dell, CPU1, 36GB Memory, 1.0TB Solid State Drive, Price: $1000.00 , Dell, CPU2, 36GB Memory, 1.0TB Hard Drive, Price: $1000.00 , Dell, CPU3, 36GB Memory, 600GB Solid State Drive, Price: $1000.00 , Dell, CPU4, 36GB Memory, 600GB Hard Drive, Price: $1000.00 ]
+Computer List, Owner: Hank Stein (012-34-5678),
+Date and place of birth: 1999-04-19, New York, New York, USA
+505 Murray Hill Road
+Vestal, NY 13850
+Computers: [Dell, CPU2, 36GB Memory, 1.0TB Hard Drive, Price: $1000.00 , Dell, CPU4, 36GB Memory, 600GB Hard Drive, Price: $1000.00 ]
+
+TESTS FOR Computer.java:
+Dell, CPU1, 36GB Memory, 1.0TB Solid State Drive, Price: $1000.00 
+Dell, CPU2, 36GB Memory, 1.0TB Hard Drive, Price: $1000.00 
+Dell, CPU3, 36GB Memory, 600GB Solid State Drive, Price: $1000.00 
+Dell, CPU4, 36GB Memory, 600GB Hard Drive, Price: $1000.00 
+
+TESTS FOR Person.java
+Hank Stein (012-34-5678),
+Date and place of birth: 1999-04-19, New York, New York, USA
+505 Murray Hill Road
+Vestal, NY 13850
+
+TESTS FOR StreetUSAddress.java
+505 Murray Hill Road
+Vestal, NY 13850
+4 E 95th St
+Apt. 7B
+New York, NY 10128
+
+TESTS FOR DateAndPlaceOfBirth.java
+Date and place of birth: 1999-04-19, New York, New York, USA
+Date and place of birth: 1989-02-25, Tallahassee, Florida, USA
+Date and place of birth: 1999-04-19, Indianapolis, Indiana, USA
+Date and place of birth: 2001-11-03, Seville, Spain
+Date and place of birth: 1964-04-19, Johannesburg, South Africa
+false
+true
+false
+true
+false
+false
+false
+false
+true
+false
+false
+true
+false
+false
+false
+false
+true
+false
+true
+false
+false
+true
+false
+false
+false
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+false
+true
+true
+true
+false
+false
+false
+true
+false
+false
+false
+false
+false
+true
+true
+true
+true
+true
+false
+false
+true
+false
+false
+false
+true
+false
+true
+false
+true
+true
+true
+true
+true
+false
+false
+false
+false
+
+TESTS FOR SimpleDate.java:
+Expected: false
+false
+Expected: true
+true
+Expected: false
+false
